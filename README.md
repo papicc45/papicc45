@@ -45,7 +45,7 @@
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
   <br>
-  <img src="https://img.shields.io/badge/Git Action-2088FF?style=for-the-badge&logo=gitaction&logoColor=white"> 
+  <img src="https://img.shields.io/badge/Git Action-2088FF?style=for-the-badge&logo=github actions&logoColor=white"> 
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white"> 
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"> 
 </div>
