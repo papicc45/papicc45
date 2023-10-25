@@ -1,5 +1,5 @@
 ### Dong-Jun Lee Github !
-<img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> 
+<a href="https://velog.io/@papicc45"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> </a>
 
 [![Dong-Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=papicc45&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
