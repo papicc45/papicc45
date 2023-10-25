@@ -1,4 +1,6 @@
-### Hi there 👋
+### Dong-Jun Lee Github !
+
+[![Dong-Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=papicc45)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **papicc45/papicc45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
