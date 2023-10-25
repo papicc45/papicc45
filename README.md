@@ -33,9 +33,9 @@
   <br>
 
   <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
-  <img src="https://img.shields.io/badge/AWS RDS-232F3E?style=for-the-badge&logo=amazonrds&logoColor=white"> 
-  <img src="https://img.shields.io/badge/AWS EC2-232F3E?style=for-the-badge&logo=amazonec2&logoColor=white"> 
-  <img src="https://img.shields.io/badge/AWS S3-232F3E?style=for-the-badge&logo=amazons3&logoColor=white"> 
+  <img src="https://img.shields.io/badge/AWS RDS-527FFF?style=for-the-badge&logo=amazonrds&logoColor=white"> 
+  <img src="https://img.shields.io/badge/AWS EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white"> 
+  <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> 
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=white">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
   <br>
