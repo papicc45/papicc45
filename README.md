@@ -42,6 +42,8 @@
   <img src="https://img.shields.io/badge/AWS S3-569A31?style=for-the-badge&logo=amazons3&logoColor=white"> 
   <img src="https://img.shields.io/badge/Apache tomcat-F8DC75?style=for-the-badge&logo=apachetomcat&logoColor=black">
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white">
+  <img src="https://img.shields.io/badge/Spring Eureka-009639?style=for-the-badge&logo=eureka&logoColor=white">
+  <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white">
   <br>
   
   <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
