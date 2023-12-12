@@ -4,7 +4,7 @@
 [![Dong-Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=papicc45&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
-  <img src="https://img.shields.io/badge/java-007396?style=social&logo=java&logoColor=white"> 
+  <img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c-A8B9CC?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <br>
   
