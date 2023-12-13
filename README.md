@@ -2,7 +2,7 @@
 <a href="https://velog.io/@papicc45"><img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white"> </a>
 <br/>
 [![Dong-Jun's GitHub stats](https://github-readme-stats.vercel.app/api?username=papicc45&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=papicc45)](https://solved.ac/papicc45)<br/>
+[![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=papicc45)](https://solved.ac/papicc45)
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
